@@ -53,45 +53,20 @@ This case focuses on my contributions to program design and evaluation. It does 
 
 ---
 
-## 03 / The Redesign
+## 03 / Program Redesign
+### Connecting Experience with Critical Reflection
 
-### Connecting experience with interpretation
+The program offered opportunities to learn about local environments through observation and educational activities. I saw a need to strengthen what happened after those experiences: how participants interpreted what they learned and connected it to their own knowledge.
 
-The redesigned framework followed a central sequence:
+I redesigned the learning approach using principles from critical adult education and participatory research. Rather than treat learning as the transfer of information, I developed activities that encouraged participants to examine ideas, compare perspectives, and communicate their understanding.
 
-**Experience → Reflection → Dialogue → Communication → Evaluation**
+Two considerations guided my decisions. First, accessibility should support rigorous thinking, not replace it with simplified content. Second, participant feedback should do more than measure satisfaction; it can reveal how people understand a program and where its design needs attention.
 
-Each stage served a different purpose.
+The work required adapting theoretical ideas to the program's educational goals, available resources, and conditions of delivery.
 
-### Experience
+**The central insight:** A program's value depends not only on the information it provides, but also on the opportunities it creates for people to interpret and use that information.
 
-Field activities provided opportunities to observe local environments and engage with ecological concepts.
-
-These experiences formed the basis for later discussion.
-
-### Reflection
-
-I developed structured questions and exercises that helped participants identify what they observed, what interested them, and what questions remained.
-
-The goal was to make learning more deliberate without removing its personal or experiential character.
-
-### Dialogue
-
-Group discussions gave participants opportunities to compare observations and consider different interpretations.
-
-I drew on seminar-style questioning and collaborative learning techniques to encourage explanation, listening, and critical thinking.
-
-### Communication
-
-Peer-learning activities invited participants to explain environmental concepts in their own words.
-
-This helped connect technical information with everyday experience and gave participants opportunities to practice communicating what they understood.
-
-### Evaluation
-
-I developed and reviewed feedback tools to better understand participants' learning experiences and identify opportunities to improve program delivery.
-
-The evaluation process informed my interpretation of the program's strengths and limitations.
+This account describes the reasoning behind the redesign. Original curriculum materials, evaluation instruments, and implementation procedures are not included.
 
 ---
 
